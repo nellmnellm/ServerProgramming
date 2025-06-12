@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\echo.client",
+    "\\echo.net",
+    "\\echo.server"
+  ],
+  "SelectedNode": "\\echo.server\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

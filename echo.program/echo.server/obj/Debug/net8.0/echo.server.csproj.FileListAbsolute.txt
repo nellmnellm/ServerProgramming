@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\echo.program\echo.server\bin\Debug\net8.0\echo.server.exe
+C:\Users\user\source\repos\echo.program\echo.server\bin\Debug\net8.0\echo.server.deps.json
+C:\Users\user\source\repos\echo.program\echo.server\bin\Debug\net8.0\echo.server.runtimeconfig.json
+C:\Users\user\source\repos\echo.program\echo.server\bin\Debug\net8.0\echo.server.dll
+C:\Users\user\source\repos\echo.program\echo.server\bin\Debug\net8.0\echo.server.pdb
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.AssemblyInfo.cs
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.dll
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\refint\echo.server.dll
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.pdb
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\echo.server.genruntimeconfig.cache
+C:\Users\user\source\repos\echo.program\echo.server\obj\Debug\net8.0\ref\echo.server.dll

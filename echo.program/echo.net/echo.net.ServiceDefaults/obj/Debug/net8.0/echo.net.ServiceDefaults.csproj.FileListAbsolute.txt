@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\bin\Debug\net8.0\echo.net.ServiceDefaults.deps.json
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\bin\Debug\net8.0\echo.net.ServiceDefaults.dll
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\bin\Debug\net8.0\echo.net.ServiceDefaults.pdb
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.AssemblyInfo.cs
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.dll
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\refint\echo.net.ServiceDefaults.dll
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\echo.net.ServiceDefaults.pdb
+C:\Users\user\source\repos\echo.program\echo.net\echo.net.ServiceDefaults\obj\Debug\net8.0\ref\echo.net.ServiceDefaults.dll

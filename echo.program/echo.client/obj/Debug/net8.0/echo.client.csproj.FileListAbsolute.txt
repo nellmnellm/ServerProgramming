@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\echo.program\echo.client\bin\Debug\net8.0\echo.client.exe
+C:\Users\user\source\repos\echo.program\echo.client\bin\Debug\net8.0\echo.client.deps.json
+C:\Users\user\source\repos\echo.program\echo.client\bin\Debug\net8.0\echo.client.runtimeconfig.json
+C:\Users\user\source\repos\echo.program\echo.client\bin\Debug\net8.0\echo.client.dll
+C:\Users\user\source\repos\echo.program\echo.client\bin\Debug\net8.0\echo.client.pdb
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.AssemblyInfo.cs
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.dll
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\refint\echo.client.dll
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.pdb
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\echo.client.genruntimeconfig.cache
+C:\Users\user\source\repos\echo.program\echo.client\obj\Debug\net8.0\ref\echo.client.dll
