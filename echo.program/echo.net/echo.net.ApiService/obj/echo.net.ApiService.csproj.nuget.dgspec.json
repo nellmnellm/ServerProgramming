@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
         "projectName": "echo.net.ApiService",
-        "projectPath": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj",
         "projectName": "echo.net.ServiceDefaults",
-        "projectPath": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ServiceDefaults\\echo.net.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

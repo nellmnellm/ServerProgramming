@@ -18,14 +18,15 @@ using System.Reflection;
     "t\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\user\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\ex" +
     "t\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\user\\Documents\\GitHub\\echo.program\\echo.net\\echo.net.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.A" +
+    "ppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "echo.net.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\user\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Das" +
     "hboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("echo.net.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08203e5fe77580653f8c0745395cc467cb3944c")]
 [assembly: System.Reflection.AssemblyProductAttribute("echo.net.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("echo.net.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

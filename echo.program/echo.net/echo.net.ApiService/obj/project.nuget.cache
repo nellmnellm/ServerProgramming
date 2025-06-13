@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6aCW8/Whxsc=",
+  "dgSpecHash": "gAhSxlpYzhs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

@@ -8,5 +8,5 @@ namespace Projects;
 public class echo_net_AppHost
 {
     private echo_net_AppHost() { }
-    public static string ProjectPath => """C:\Users\user\Documents\GitHub\echo.program\echo.net\echo.net.AppHost""";
+    public static string ProjectPath => """C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.net\echo.net.AppHost""";
 }

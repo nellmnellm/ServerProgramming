@@ -1,57 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\echo.program\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.server\\echo.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|solutionrelative:echo.server\\echo.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A5B0FDEE-95E6-4C20-B737-4A5119DC75F8}|echo.udpclient\\echo.udpclient.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B0FDEE-95E6-4C20-B737-4A5119DC75F8}|echo.udpclient\\echo.udpclient.csproj|solutionrelative:echo.udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.client\\echo.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|solutionrelative:echo.client\\echo.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|solutionrelative:echo.net\\echo.net.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|solutionrelative:echo.net\\echo.net.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|solutionrelative:echo.net\\echo.net.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.apiservice\\echo.net.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|solutionrelative:echo.net\\echo.net.apiservice\\echo.net.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|solutionrelative:echo.net\\echo.net.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|solutionrelative:echo.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|solutionrelative:echo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|solutionrelative:echo.net\\echo.net.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C140DE9C-9F24-4076-A977-E22990107B26}|echo.udpserver\\echo.udpserver.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C140DE9C-9F24-4076-A977-E22990107B26}|echo.udpserver\\echo.udpserver.csproj|solutionrelative:echo.udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|solutionrelative:echo.net\\echo.net.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|solutionrelative:echo.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.server\\echo.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8524D1B4-34E9-41BC-8200-18FA33CDBC60}|echo.server\\echo.server.csproj|solutionrelative:echo.server\\echo.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|solutionrelative:echo.net\\echo.net.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|solutionrelative:echo.net\\echo.net.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B642E67-8AF9-43AB-978D-EB53579600F7}|echo.net\\echo.net.AppHost\\echo.net.AppHost.csproj|solutionrelative:echo.net\\echo.net.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|solutionrelative:echo.net\\echo.net.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.web\\echo.net.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.apiservice\\echo.net.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|solutionrelative:echo.net\\echo.net.apiservice\\echo.net.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.client\\echo.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D355E239-8DCB-42B9-8C3C-C5C18C60304A}|echo.client\\echo.client.csproj|solutionrelative:echo.client\\echo.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|solutionrelative:echo.net\\echo.net.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33CC4BAB-AF25-9586-DE9A-2734CF057C44}|echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj|solutionrelative:echo.net\\echo.net.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|solutionrelative:echo.net\\echo.net.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|c:\\users\\user\\documents\\github\\serverprogramming\\echo.program\\echo.net\\echo.net.web\\echo.net.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B061B8E3-89B5-092B-E870-B1ADF90C3A9D}|echo.net\\echo.net.Web\\echo.net.Web.csproj|solutionrelative:echo.net\\echo.net.web\\echo.net.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -67,10 +75,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "echo.server",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.server\\echo.server.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.udpclient\\Program.cs",
+              "RelativeDocumentMoniker": "echo.udpclient\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.udpclient\\Program.cs",
+              "RelativeToolTip": "echo.udpclient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:37:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.udpserver\\Program.cs",
+              "RelativeDocumentMoniker": "echo.udpserver\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.udpserver\\Program.cs",
+              "RelativeToolTip": "echo.udpserver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:27:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T07:01:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "echo.net\\echo.net.ApiService\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\appsettings.json",
+              "RelativeToolTip": "echo.net\\echo.net.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T07:00:28.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "echo.net\\echo.net.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.AppHost\\appsettings.json",
+              "RelativeToolTip": "echo.net\\echo.net.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T07:00:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "echo.net\\echo.net.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\appsettings.json",
+              "RelativeToolTip": "echo.net\\echo.net.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T06:59:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.client\\Program.cs",
+              "RelativeDocumentMoniker": "echo.client\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.client\\Program.cs",
+              "RelativeToolTip": "echo.client\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:14:11.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.server\\Program.cs",
+              "RelativeDocumentMoniker": "echo.server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.server\\Program.cs",
+              "RelativeToolTip": "echo.server\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:22:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "echo.server.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.server\\echo.server.csproj",
               "RelativeDocumentMoniker": "echo.server\\echo.server.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.server\\echo.server.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.server\\echo.server.csproj",
               "RelativeToolTip": "echo.server\\echo.server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -79,11 +187,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "echo.client",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.client\\echo.client.csproj",
+              "DocumentIndex": 9,
+              "Title": "echo.net.ApiService",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+              "RelativeDocumentMoniker": "echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+              "RelativeToolTip": "echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T07:11:45.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "echo.client.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.client\\echo.client.csproj",
               "RelativeDocumentMoniker": "echo.client\\echo.client.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.client\\echo.client.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.client\\echo.client.csproj",
               "RelativeToolTip": "echo.client\\echo.client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -92,99 +212,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "echo.net.ApiService",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
-              "RelativeDocumentMoniker": "echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
-              "RelativeToolTip": "echo.net\\echo.net.ApiService\\echo.net.ApiService.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-12T07:11:45.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
-              "RelativeToolTip": "echo.net\\echo.net.AppHost\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T07:01:06.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\appsettings.json",
-              "RelativeDocumentMoniker": "echo.net\\echo.net.ApiService\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\appsettings.json",
-              "RelativeToolTip": "echo.net\\echo.net.ApiService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T07:00:28.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.AppHost\\appsettings.json",
-              "RelativeDocumentMoniker": "echo.net\\echo.net.AppHost\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.AppHost\\appsettings.json",
-              "RelativeToolTip": "echo.net\\echo.net.AppHost\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T07:00:16.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "echo.net\\echo.net.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\appsettings.json",
-              "RelativeToolTip": "echo.net\\echo.net.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T06:59:24.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.client\\Program.cs",
-              "RelativeDocumentMoniker": "echo.client\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.client\\Program.cs",
-              "RelativeToolTip": "echo.client\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:14:11.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\Program.cs",
               "RelativeDocumentMoniker": "echo.net\\echo.net.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\Program.cs",
               "RelativeToolTip": "echo.net\\echo.net.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:59:14.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T06:59:14.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "echo.net\\echo.net.ApiService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.ApiService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.ApiService\\Properties\\launchSettings.json",
               "RelativeToolTip": "echo.net\\echo.net.ApiService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -192,24 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.server\\Program.cs",
-              "RelativeDocumentMoniker": "echo.server\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.server\\Program.cs",
-              "RelativeToolTip": "echo.server\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwC8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T02:22:25.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "echo.net\\echo.net.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "echo.net\\echo.net.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -217,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "echo.net.Web",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\echo.net.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\echo.net.Web.csproj",
               "RelativeDocumentMoniker": "echo.net\\echo.net.Web\\echo.net.Web.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\echo.program\\echo.net\\echo.net.Web\\echo.net.Web.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ServerProgramming\\echo.program\\echo.net\\echo.net.Web\\echo.net.Web.csproj",
               "RelativeToolTip": "echo.net\\echo.net.Web\\echo.net.Web.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-12T06:59:20.667Z",

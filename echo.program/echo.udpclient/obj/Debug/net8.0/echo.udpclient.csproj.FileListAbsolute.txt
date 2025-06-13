@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\bin\Debug\net8.0\echo.udpclient.exe
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\bin\Debug\net8.0\echo.udpclient.deps.json
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\bin\Debug\net8.0\echo.udpclient.runtimeconfig.json
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\bin\Debug\net8.0\echo.udpclient.dll
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\bin\Debug\net8.0\echo.udpclient.pdb
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.sourcelink.json
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.dll
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\refint\echo.udpclient.dll
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.pdb
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\echo.udpclient.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.udpclient\obj\Debug\net8.0\ref\echo.udpclient.dll

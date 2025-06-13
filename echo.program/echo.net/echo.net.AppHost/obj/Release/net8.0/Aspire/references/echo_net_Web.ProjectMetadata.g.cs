@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class echo_net_Web : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\user\Documents\GitHub\echo.program\echo.net\echo.net.Web\echo.net.Web.csproj""";
+    public string ProjectPath => """C:\Users\user\Documents\GitHub\ServerProgramming\echo.program\echo.net\echo.net.Web\echo.net.Web.csproj""";
 }
